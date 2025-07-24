@@ -1,0 +1,11 @@
+__pycache__/
+
+.idea/
+.vscode/
+.trae/
+
+.venv/
+
+.data/
+
+
