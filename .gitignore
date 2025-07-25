@@ -7,5 +7,5 @@ __pycache__/
 .venv/
 
 data/
-
+model/
 
